@@ -7,16 +7,16 @@ It also scrapes tweets related to all 32 playable characters in the game.
 The project puts the tweets through processing and sentiment analysis to find out what the most liked
 and least liked characters currently are, according to twitter.
 
-Required packages:
-  pandas
-  tweepy
-  nltk
-  textblob
-  matplotlib
+    Required packages:
+    pandas
+    tweepy
+    nltk
+    textblob
+    matplotlib
  
-Additional requirements:
-  This project requires a twitter developer account with elevated access.
-  The user must enter the 5 keys related to their account in order for the tiwtter scraper to work.
+    Additional requirements:
+    This project requires a twitter developer account with elevated access.
+    The user must enter the 5 keys related to their account in order for the tiwtter scraper to work.
     
     Keys required:
     app_api_key
